@@ -1,1 +1,1 @@
-https://daryaenina.github.io/virtual-piano/
+https://daryaenina.github.io/virtual-piano/index
